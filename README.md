@@ -14,7 +14,7 @@ This README provides instructions for setting up and using the REST API Laravel 
 1. **Clone the Repository**:
    Clone the project repository to your local machine using the following command:
    ```bash
-   git clone <repository-url>
+   git clone <repository-url>](https://github.com/Abidanik86/Laravel_Rest_Api_CRUD.git)
    ```
 
 2. **Setup Database**:
