@@ -56,5 +56,5 @@ Route::apiResource('users' , UserController::class);
 // Route::get('/test', function(){
 //     p("working");
 // });
-//Normal Way Starts...................
+//Normal Way Ends...................
 
